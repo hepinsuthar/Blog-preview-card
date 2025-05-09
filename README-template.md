@@ -30,8 +30,9 @@ Users should be able to:
 
 ### Links
 
-* Solution URL: [https://github.com/yourusername/blog-preview-card](https://github.com/yourusername/blog-preview-card)
-* Live Site URL: [https://yourusername.netlify.app](https://yourusername.netlify.app)
+* Solution URL: [blog-preview-card](https://www.frontendmentor.io/profile/hepinsuthar)
+* Live Site URL: [Blog-preview-card](https://hepinsuthar.github.io/Blog-preview-card/)
+
 
 ## My process
 
