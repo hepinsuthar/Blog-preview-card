@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 * Solution URL: [https://github.com/yourusername/blog-preview-card](https://github.com/yourusername/blog-preview-card)
-* Live Site URL: [https://yourusername.netlify.app](https://yourusername.netlify.app)
+* Live Site URL: [Blog-preview-card](https://hepinsuthar.github.io/Blog-preview-card/)
 
 ---
 
